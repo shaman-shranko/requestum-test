@@ -1,0 +1,1 @@
+export const APP_DATA_LIST = '[APP] DATA_LIST';
